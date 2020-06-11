@@ -1,0 +1,12 @@
+devDependencies:
+  bs-platform: 8.0.0-dev.1
+lockfileVersion: 5.1
+packages:
+  /bs-platform/8.0.0-dev.1:
+    dev: true
+    hasBin: true
+    requiresBuild: true
+    resolution:
+      integrity: sha512-AMwhxGf9VKSlzM9FeV++ex6kmrn48RHvKOd6lQbt2QD3He1xuxuYZ17VhJjzYDipGzeVLbT77Oku/EeFba0afg==
+specifiers:
+  bs-platform: 8.0.0-dev.1
